@@ -8,7 +8,7 @@ v0 = 0 ; por lo tanto t = vf/a
      t = 60 Km/H / 20 Km /H**2 = 3 H 
 */ 
 
-let velocidadInicialKmHora = 0; /* o de reposo */
+let velocidadInicialKmHora = 0; /* O de reposo */
 let aceleracionKmHora = 20;     /* aclaro que son KM x HORA */
 let velocidadFinalKmHora = 60;  /* aclaro que son KM x HORA */
 
